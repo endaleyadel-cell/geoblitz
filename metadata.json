@@ -1,0 +1,6 @@
+{
+  "name": "GeoBlitz · Minimalist World Geography & Flag Speedrun",
+  "description": "Fast-paced, minimalist country guessing game. Name world flags, shapes, and continents under intense 10s, 20s, and 30s dopamine rushes with real-time global leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
